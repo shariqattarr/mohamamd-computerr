@@ -34,7 +34,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/shariqattarr/mohammad-computer.git
+git clone https://github.com/heyitsmohdd/mohammad-computer.git
 
 # Navigate to the project
 cd mohammad-computer
@@ -84,7 +84,7 @@ MIT — Do whatever you want with it, just don't blame me if it makes you reinst
 ## 🤝 Connect
 
 - 🌐 [Live Site](https://mohammad.computer)
-- 🐙 [GitHub](https://github.com/shariqattarr)
+- 🐙 [GitHub](https://github.com/heyitsmohadd)
 
 ---
 
